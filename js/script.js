@@ -7,3 +7,4 @@ mainEl.innerHTML = "<h1>SEI Rocks!</h1>";
 
 mainEl.classList.add('flex-ctr');
 //hello
+//goodbye
